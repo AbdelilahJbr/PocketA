@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pocketa" size="15.000000 17.086956" />
+    <ImageTarget name="em" size="15.000000 2.879257" />
+    <ImageTarget name="sdn" size="15.000000 3.479087" />
+    <ImageTarget name="lf" size="15.000000 8.076923" />
+    <ImageTarget name="ct" size="15.000000 15.000000" />
+    <ImageTarget name="Hack-Pitch" size="15.000000 15.000000" />
+    <ImageTarget name="handpblack" size="15.000000 14.295774" />
+    <ImageTarget name="screeendy" size="15.000000 3.471810" />
+    <ImageTarget name="microsoft" size="15.000000 3.640777" />
+    <ImageTarget name="inwimv" size="15.000000 4.255952" />
+    <ImageTarget name="inwi" size="15.000000 5.175000" />
+    <ImageTarget name="cih" size="15.000000 5.662500" />
+  </Tracking>
+</QCARConfig>
